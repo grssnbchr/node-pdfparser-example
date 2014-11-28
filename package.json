@@ -1,0 +1,19 @@
+{
+  "name": "pdfscraping",
+  "version": "0.0.1",
+  "description": "A PDF parser for a specific domain",
+  "main": "parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scrape",
+    "pdf"
+  ],
+  "author": "Timo Grossenbacher",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^0.9.0",
+    "json2csv": "^2.2.1"
+  }
+}
