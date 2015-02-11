@@ -1,7 +1,7 @@
 node-pdfparser-example
 ======================
 
-little node script to parse a few hundred pdfs of the same form and save results in a csv.
+little node script to parse a few hundred pdfs of the same form and save results in a csv. see corresponding blog post: http://timogrossenbacher.ch/2014/11/parsing-thousands-of-pdfs-with-javascript/
 
 to install and run:
 ```
